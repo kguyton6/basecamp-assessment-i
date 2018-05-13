@@ -2,15 +2,15 @@
 
 var myName = "kim";// CODE HERE
 
-var faveNum = 6;// #2 create a variable called 'faveNum' and assign it to your favorite number
+// #2 create a variable called 'faveNum' and assign it to your favorite number
 
-// CODE HERE
+var faveNum = 6;// CODE HERE
 
 // #3 create a variable called 'lovesCode' and set it to true
 
 var lovesCode = true;// CODE HERE
 
- 
+
 // #4 Using the previously created variables, create a new variable called 'me' that uses the myName and faveNum varible to create a sentence like this 'My name is Bryan and my favorite number is 3'
 
 var me = "My name is " +myName+ " and my favorite number is " +faveNum;// CODE HERE
@@ -30,6 +30,7 @@ notHakeem == myName;
 
 var age = 18;
 var canDrive = (age >= 16);
+function canDrive (age){
 if (age >= 16){
 document.write("true");
 
