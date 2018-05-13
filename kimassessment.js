@@ -1,10 +1,10 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
-var myName = "kim";// CODE HERE
+var myName = "kim";
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
-var faveNum = 6;// CODE HERE
+var faveNum = 6;
 
 // #3 create a variable called 'lovesCode' and set it to true
 
@@ -65,3 +65,4 @@ sum(2)
 function greeter(name, number){
   return "Hi! I am " + name + " and I am " + number + " years old"; 
 }
+//testing git
